@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|d:\\codingfiles\\2025\\uncomplete\\prakt_proizv_1\\schooldocmanager\\schooldocmanager\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|solutionrelative:schooldocmanager\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\schooldocmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|solutionrelative:schooldocmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\schooldocmanager\\listfilespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|solutionrelative:schooldocmanager\\listfilespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\schooldocmanager\\listfilespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|solutionrelative:schooldocmanager\\listfilespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\schooldocmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|solutionrelative:schooldocmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\schooldocmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E1789E6-6244-43F6-89DD-190F75AFDDB5}|SchoolDocManager\\SchoolDocManager.csproj|solutionrelative:schooldocmanager\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListFilesPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\ListFilesPanel.cs",
+              "RelativeDocumentMoniker": "SchoolDocManager\\ListFilesPanel.cs",
+              "ToolTip": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\ListFilesPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SchoolDocManager\\ListFilesPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:55:32.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolDocManager\\MainForm.cs",
+              "ToolTip": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\MainForm.cs",
+              "RelativeToolTip": "SchoolDocManager\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:55:23.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolDocManager\\MainForm.cs",
+              "ToolTip": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SchoolDocManager\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:54:45.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\App.config",
+              "RelativeDocumentMoniker": "SchoolDocManager\\App.config",
+              "ToolTip": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\App.config",
+              "RelativeToolTip": "SchoolDocManager\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-10T07:54:29.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\MainMenu.cs",
+              "RelativeDocumentMoniker": "SchoolDocManager\\MainMenu.cs",
+              "ToolTip": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SchoolDocManager\\MainMenu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:23:55.097Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListFilesPanel.cs",
+              "DocumentMoniker": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\ListFilesPanel.cs",
+              "RelativeDocumentMoniker": "SchoolDocManager\\ListFilesPanel.cs",
+              "ToolTip": "D:\\CodingFiles\\2025\\Uncomplete\\Prakt_proizv_1\\SchoolDocManager\\SchoolDocManager\\ListFilesPanel.cs",
+              "RelativeToolTip": "SchoolDocManager\\ListFilesPanel.cs",
+              "ViewState": "AgIAADkCAAAAAAAAAAAgwFsCAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:49:01.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
